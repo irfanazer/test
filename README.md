@@ -18,7 +18,8 @@ Before running the project, ensure you have the following installed:
    cd <project_directory>
    ```
 
-2. **Install dependencies**
+2. pip install -r requirements .txt
+3. 
    ```sh
    pip install requests
    ```
